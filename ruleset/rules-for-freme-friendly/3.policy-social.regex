@@ -1,0 +1,5 @@
+@Cookie\x3A@.*s\x5Fsq\x3Daolsnssignin
+@http\x3A\x2F\x2F
+@SILC\x2D\d\x2E\d
+@User\x2DAgent#\x3A[^\r\n]+WebshotsNetClient
+@^\x3C(REQIMG|RVWCFG)\x3E

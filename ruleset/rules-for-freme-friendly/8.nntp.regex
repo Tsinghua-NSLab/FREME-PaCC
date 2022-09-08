@@ -1,0 +1,13 @@
+^200\s[^\n]{256}
+^AUTHINFO\s+USER\s[^\n]{200}
+^cancel\x3A[^\n]{32}
+^checkgroups\x3A[^\n]{21}
+^ihave\x3A[^\n]{21}
+^newgroup\x3A[^\n]{32}
+^rmgroup\x3A[^\n]{32}
+^SEARCH\s+[^\n]{160}
+^sendme\x3A[^\n]{21}
+^sendsys\x3A[^\n]{21}
+^senduuname\x3A[^\n]{21}
+^version\x3A[^\n]{21}
+^X?PAT\s+[^\n]{160}

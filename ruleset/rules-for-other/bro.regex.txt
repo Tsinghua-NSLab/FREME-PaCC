@@ -1,0 +1,1104 @@
+[aA][uU][tT][hH][eE][nN][tT][iI][cC][aA][tT][eE] .*\{
+\?act=online&.*s4=.*&s5=.*&nickname=
+\/announce\?.*info_hash
+[cC][oO][oO][kK][iI][eE].*philboard_admin=True
+conf=.*\.\.\/
+CREATE.* \{
+From:.*<><><><><><><><><><><><><><><><><><><><><><>.*\(.*\)
+\.id[aq]\?.*NNNNNNNNNNNNN
+\.id[aq]\?.*XXXXXXXXXXXXX
+LIST \x22.*\x22 \{
+LOGIN .* \{
+LSUB \x22.*\x22 \{
+Microsoft Windows.*\(C\) Copyright 1985-.*Microsoft Corp\.
+\/((MSDAC|scripts)\/root|winnt\/system32)\/.*c\+dir
+name=.*\.\.\/\.\.\/
+RENAME \x22.*\x22 \{
+[rR][cC][pP][tT] [tT][oO]:.*\|.*sed 
+[sS][iI][tT][eE] .*[eE][xX][eE][cC] 
+[sS][iI][tT][eE].*[eE][xX][eE][cC] .*%.*%
+ver=.*&lg=.*&phid=
+ver=.*&lg=.*&phid=.*&r=
+[wW][hH][oO]=.*;
+\.\.\/\.\.\/.*%00
+[cC][wW][dD].*C:\\
+cvs server: cannot find module.*error
+HTTP\/1\.1\x0aContent-type\x3a text\/xml\x0aHOST\x3a.*Accept\x3a \x2a\/\x2a\x0aTranslate\x3a f\x0aContent-length\x3a5276\x0a\x0a
+LIST.*\.\..*\.\.
+show=.*\.\.\/\.\.
+[sS][tT][aA][tT].*\?
+[sS][tT][aA][tT].*\*
+userfile_name=.*\.php
+[uU][iI][dD][lL].*-
+(\x0a)*(\x20)*[Ss][Ee][Rr][Vv][Ee][Rr](\x20)+.*\x0a
+200 [^\x0a]{64}
+[aA][pP][oO][pP][^\x0a]{256}
+[aA][uU][tT][hH][eE][nN][tT][iI][cC][aA][tT][eE] [^\x0a]{100}
+[aA][uU][tT][hH][iI][nN][fF][oO] [uU][sS][eE][rR] [^\x0a]{500}
+[aA][uU][tT][hH][oO][rR][iI][zZ][aA][tT][iI][oO][nN]: [bB][aA][sS][iI][cC] [^\x0a]{512}
+[aA][uU][tT][hH][^\x0a]{50}
+BODY\[[^\]]{1024}
+BODY\.PEEK\[[^\]]{1024}
+[cC][aA][pP][aA][^\x0a]{10}
+[cC][eE][lL] [^\x0a]{100}
+[cC][hH][oO][wW][nN] [^\x0a]{100}
+[cC][mM][dD] [^\x0a]{100}
+[cC][pP][wW][dD] [^\x0a]{100}
+[cC][wW][dD] [^\x0a]{100}
+Content-Transfer-Encoding:[^\x0a]{100}
+Content-Type:[^\x0a]{50}
+CREATE [^\x0a]{1024}
+[dD][eE][lL][eE][^\x0a]{10}
+[dD][eE][lL][eE] [^\x0a]{100}
+ETRN [^\x0a]{500}
+[fF][iI][nN][dD] [^\x0a]{1024}
+FOLD [^\x0a]{256}
+HELO [^\x0a]{500}
+[lL][iI][sS][tT] [^\x0a]{100}
+[lL][iI][sS][tT] [^\x0a]{50}
+LOGIN [^\x0a]{100}
+LSUB [^\x0a]{100}
+[mM][kK][dD] [^\x0a]{100}
+[nN][eE][wW][eE][rR] [^\x0a]{100}
+[pP][aA][sS][sS] [^\x0a]{100}
+[pP][aA][sS][sS][^\x0a]{50}
+[pP][rR][iI][vV][mM][sS][gG] [nN][iI][cC][kK][sS][eE][rR][vV] [iI][dD][eE][nN][tT][iI][fF][yY][^\x0a]{150}
+[rR][eE][nN][aA][mM][eE] [^\x0a]{1024}
+[rR][eE][sS][tT] [^\x0a]{100}
+[rR][mM][dD][iI][rR] [^\x0a]{100}
+[rR][mM][dD] [^\x0a]{100}
+[rR][sS][eE][tT][^\x0a]{10}
+SSH-[^\x0a]{600}
+[sS][iI][tT][eE] [^\x0a]{100}
+[sS][tT][aA][tT][^\x0a]{10}
+[sS][tT][aA][tT] [^\x0a]{100}
+[tT][oO][pP][^\x0a]{10}
+[uU][sS][eE][rR] [^\x0a]{100}
+[uU][sS][eE][rR][^\x0a]{50}
+\x0d[lL][oO][cC][aA][tT][iI][oO][nN]\x3a[^\x0a]{128}
+[xX][tT][nN][dD][^\x0a]{50}
+[zZ][iI][pP][cC][hH][kK] [^\x0a]{100}
+%00\.jsp
+[\/\\]\*%0a\.pl
+1 [fF][iI][lL][eE]\([sS]\) [cC][oO][pP][iI][eE][dD]
+%20%20%20%20%20\.htr
+%20-[dD][iI][sS][pP][lL][aA][yY]%20
+%252ejsp
+\/\.\.%255[cC]\.\.
+\.%256Asp
+%2e\.asp
+[\/\\]%3f\.jsp
+4Dgifts
+\|5e0 e31c 0b03 b8d7 e0e8 9fa 89f9\|
+%7cadmin
+[\/\\]a1disp3\.cgi
+[\/\\]a1disp3\.cgi\?[\/\\]\.\.[\/\\]\.\.[\/\\]
+[\/\\]a1stats[\/\\]
+AAAAAAAAAA
+AAAAAAAAAAAAAAAA
+[aA] [bB] [cC] [dD] [eE] [fF]
+[aA][iI][mM]:[aA][dD][dD][eE][xX][tT][eE][rR][nN][aA][lL][aA][pP][pP]\?
+[aA][iI][mM]:[aA][dD][dD][gG][aA][mM][eE]\?
+\/[aA][lL][bB][uU][mM]\.[pP][lL]
+[aA][lL][lL]_[cC][oO][nN][sS][tT][rR][aA][iI][nN][tT][sS]
+[aA][lL][lL]_[sS][oO][uU][rR][cC][eE]
+[aA][lL][lL]_[tT][aA][bB]_[cC][oO][lL][uU][mM][nN][sS]
+[aA][lL][lL]_[tT][aA][bB][lL][eE][sS]
+[aA][lL][lL]_[vV][iI][eE][wW][sS]
+[aA][lL][tT][eE][rR] [dD][aA][tT][aA][bB][aA][sS][eE]
+[aA][lL][tT][eE][rR] [tT][aA][bB][lL][eE]
+[aA][lL][tT][eE][rR] [uU][sS][eE][rR]
+<[aA]:[pP][rR][oO][pP][fF][iI][nN][dD]
+[aA][rR][tT][iI][cC][lL][eE]=\.\.\/\.\.\/
+[aA][uU][tT][hH][oO][rR][iI][zZ][aA][tT][iI][oO][nN]: 
+[aA][uU][tT][hH][oO][rR][iI][zZ][aA][tT][iI][oO][nN]: [bB][aA][sS][iI][cC] [tT][eE][rR][bB][uU][fF]9[bB][bB][mM]9[uU][eE][wW]1[vV][dD][xX][mM]6[tT][gG][rR][hH][cC][fF][bB][hH][cC]3[nN]3[bB]3[jJ][kK][xX][zZ][eE]=
+ABCDEFGHIJKLMNOPQRSTUVWABCDEFGHI
+[\/\\]active\.log
+[\/\\]ad\.cgi
+[\/\\]adcycle
+[\/\\]admcgi[\/\\]contents\.htm
+[\/\\]admentor[\/\\]admin[\/\\]admin\.asp
+[\/\\]admin_[\/\\]
+[\/\\]admin_files
+[\/\\]admin_files[\/\\]order\.log
+ADMINISTRATOR
+[\/\\]administrators\.pwd
+[\/\\]adminlogin
+[\/\\]admin\.php
+[\/\\]admin\.php3
+[\/\\]admin\.pl
+admin_root=http
+[\/\\]admin-serv[\/\\]config[\/\\]admpw
+[\/\\]admin[\/\\]templates[\/\\]header\.php
+\\ADMIN\$\x00\x41\x3a\x00
+[\/\\]admisapi[\/\\]fpadmin\.htm
+ADMROCKS
+[\/\\]adsamples[\/\\]config[\/\\]site\.csc
+[\/\\]ads\.cgi
+[\/\\]advworks[\/\\]equipment[\/\\]catalog_type\.asp
+ae9f86d6beaa3f9ecb9a5b7e072a4138
+[\/\\]af\.cgi
+[\/\\]agentrunner\.nsf
+[\/\\]aglimpse
+[\/\\]alibaba\.pl
+[\/\\]alibaba\.pl\|
+[\/\\]alienform\.cgi
+alive tijgu
+[\/\\]alya\.cgi
+[\/\\]AnForm2
+[\/\\]ans\.pl
+[\/\\]ans\.pl\?p=\.\.[\/\\]\.\.[\/\\]
+[\/\\]AnyForm2
+[\/\\]apexec\.pl
+[\/\\]application\.cfm
+[\/\\]archie
+[\/\\]args\.bat
+[\/\\]args\.cmd
+\.asp\x3a\x3a\$DATA
+[\/\\]as_web4\.exe
+[\/\\]as_web\.exe
+[\/\\]AT-admin\.cgi
+[\/\\]AT-generated\.cgi
+[\/\\]auktion\.cgi
+_AuthChangeUrl\?
+[\/\\]auth_data[\/\\]auth_user_file\.txt
+[\/\\]authenticate\.cgi\?PASSWORD
+[\/\\]author\.dll
+Authorization: Basic OmFkbWlu
+authorized_keys
+[\/\\]authors\.pwd
+[\/\\]autohtml\.php
+[\/\\]ax-admin\.cgi
+[\/\\]axs\.cgi
+[\/\\]b2[\/\\]b2-include[\/\\]
+b2inc=http
+[\/\\]backup
+[\/\\]\.bash_history
+[bB][aA][dD] [cC][oO][mM][mM][aA][nN][dD] [oO][rR] [fF][iI][lL][eE][nN][aA][mM][eE]
+[\/\\]bb-histlog\.sh
+[\/\\]bb-hist\.sh
+[\/\\]bb-hist\.sh\?HISTFILE=\.\.[\/\\]\.\.
+[\/\\]bb-histsvc\.sh
+[\/\\]bb-hostsvc\.sh
+[\/\\]bb-hostsvc\.sh\?HOSTSVC
+[\/\\]bb-hostsvc\.sh\?HOSTSVC\?\.\.[\/\\]\.\.
+\/[bB][iI][nN]\/[cC][hH][mM][oO][dD]
+\/[bB][iI][nN]\/[eE][cC][hH][oO]
+\/[bB][iI][nN]\/[kK][iI][lL][lL]
+\/[bB][iI][nN]\/[mM][aA][iI][lL]
+[bB][iI][nN]\/[nN][aA][sS][mM]
+\/[bB][iI][nN]\/[pP][iI][nN][gG]
+[bB][iI][nN]\/[pP][yY][tT][hH][oO][nN]
+[bB][iI][nN]\/[tT][cC][lL][sS][hH]
+[\/\\]bb-replog\.sh
+[\/\\]bb-rep\.sh
+[\/\\]bbs_forum\.cgi
+[\/\\]bb_smilies\.php
+[\/\\]bdir\.htr
+betaalmostdone
+[\/\\]bigconf\.cgi
+[\/\\]bin[\/\\]ls
+[\/\\]bin[\/\\]ls\|
+[\/\\]bin[\/\\]ps
+\/bin\/sh
+bin\x00bin\x00
+[\/\\]bizdb1-search\.cgi
+[\/\\]biztalkhttpreceive\.dll
+[\/\\]bnbform\.cgi
+[\/\\]book\.cgi
+[\/\\]bookmark\.nsf
+[\/\\]bsguest\.cgi
+[\/\\]bslist\.cgi
+[\/\\]c32web\.exe[\/\\]ChangeAdminPassword
+[\/\\]cached_feed\.cgi
+[\/\\]cachemgr\.cgi
+[\/\\]calendar
+[\/\\]calendar_admin\.pl
+[\/\\]calendar-admin\.pl
+[\/\\]calendar_admin\.pl\?config=\|
+[\/\\]calendar\.php
+[\/\\]calender\.pl
+[\/\\]cal_make\.pl
+[\/\\]campas
+[\/\\]campus
+[\/\\]campus\?%0a
+[\/\\]carbo\.dll
+[\/\\]Carello[\/\\]add\.exe
+[\/\\]cart32\.exe
+[\/\\]cart[\/\\]cart\.cgi
+[\/\\]cart\.cgi
+[\/\\]catalog\.nsf
+catigory=\.\.\/
+[\/\\]catinfo
+\/\.\.%[cC]0%[aA][fF]\.\.\/
+\/\.\.%[cC]1%1[cC]\.\.\/
+\/\.\.%[cC]1%9[cC]\.\.\/
+[cC][cC][cC][cC][cC][cC][cC]: [aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA][aA]
+[cC][fF]_[iI][sS][cC][oO][lL][dD][fF][uU][sS][iI][oO][nN][dD][aA][tT][aA][sS][oO][uU][rR][cC][eE]\(\)
+[cC][fF]_[sS][eE][tT][dD][aA][tT][aA][sS][oO][uU][rR][cC][eE][pP][aA][sS][sS][wW][oO][rR][dD]\(\)
+[cC][fF]_[sS][eE][tT][dD][aA][tT][aA][sS][oO][uU][rR][cC][eE][uU][sS][eE][rR][nN][aA][mM][eE]\(\)
+[cC][fF][uU][sS][iI][oO][nN]_[dD][bB][cC][oO][nN][nN][eE][cC][tT][iI][oO][nN][sS]_[fF][lL][uU][sS][hH]\(\)
+[cC][fF][uU][sS][iI][oO][nN]_[dD][eE][cC][rR][yY][pP][tT]\(\)
+[cC][fF][uU][sS][iI][oO][nN]_[eE][nN][cC][rR][yY][pP][tT]\(\)
+[cC][fF][uU][sS][iI][oO][nN]_[gG][eE][tT][oO][dD][bB][cC][dD][sS][nN]\(\)
+[cC][fF][uU][sS][iI][oO][nN]_[gG][eE][tT][oO][dD][bB][cC][iI][nN][iI]\(\)
+[cC][fF][uU][sS][iI][oO][nN]_[sS][eE][tT][oO][dD][bB][cC][iI][nN][iI]\(\)
+[cC][fF][uU][sS][iI][oO][nN]_[sS][eE][tT][tT][iI][nN][gG][sS]_[rR][eE][fF][rR][eE][sS][hH]\(\)
+[cC][fF][uU][sS][iI][oO][nN]_[vV][eE][rR][iI][fF][yY][mM][aA][iI][lL]\(\)
+\/[cC][gG][iI]-[bB][iI][nN]\/ [hH][tT][tT][pP]
+\/[cC][gG][iI]-[dD][oO][sS]\/ [hH][tT][tT][pP]
+[cC][hH][uU][nN][kK][eE][dD]
+&[cC][iI][hH][iI][lL][iI][tT][eE][tT][yY][pP][eE]=[fF][uU][lL][lL]
+&[cC][iI][rR][eE][sS][tT][rR][iI][cC][tT][iI][oO][nN]=[nN][oO][nN][eE]
+[cC][mM][dD]32\.[eE][xX][eE]
+[cC][mM][dD]\.[eE][xX][eE]
+[cC][oO][mM][mM][aA][nN][dD] [cC][oO][mM][pP][lL][eE][tT][eE][dD]
+[cC][oO][nN][fF]\/[hH][tT][tT][pP][dD]\.[cC][oO][nN][fF]
+[cC][oO][nN][nN][eE][cC][tT]_[dD][aA][tT][aA]\([cC][oO][mM][mM][aA][nN][dD]=[vV][eE][rR][sS][iI][oO][nN]\)
+[cC][rR][eE][aA][tT][eE] [dD][aA][tT][aA][bB][aA][sS][eE]
+[cC][rR][eE][aA][tT][eE] [tT][aA][bB][lL][eE]
+[cC][uU][rR][rR][eE][nN][tT]=\|
+[\/\\]cd[\/\\]\.\.[\/\\]config[\/\\]html[\/\\]cnf_gi\.htm
+[\/\\]cersvr\.nsf
+[\/\\]cfappman[\/\\]index\.cfm
+[\/\\]cfcache\.map
+[\/\\]cfdocs[\/\\]cfmlsyntaxcheck\.cfm
+[\/\\]cfdocs[\/\\]exampleapp[\/\\]
+[\/\\]cfdocs[\/\\]exampleapp[\/\\]email[\/\\]application\.cfm
+[\/\\]cfdocs[\/\\]exampleapp[\/\\]email[\/\\]getfile\.cfm
+[\/\\]cfdocs[\/\\]exampleapp[\/\\]publish[\/\\]admin[\/\\]addcontent\.cfm
+[\/\\]cfdocs[\/\\]exampleapp[\/\\]publish[\/\\]admin[\/\\]application\.cfm
+[\/\\]cfdocs[\/\\]examples[\/\\]cvbeans[\/\\]beaninfo\.cfm
+[\/\\]cfdocs[\/\\]examples[\/\\]mainframeset\.cfm
+[\/\\]cfdocs[\/\\]examples[\/\\]parks[\/\\]detail\.cfm
+[\/\\]cfdocs[\/\\]expeval[\/\\]
+[\/\\]cfdocs[\/\\]expeval[\/\\]displayopenedfile\.cfm
+[\/\\]cfdocs[\/\\]expeval[\/\\]exprcalc\.cfm
+[\/\\]cfdocs[\/\\]snippets[\/\\]
+[\/\\]cfdocs[\/\\]snippets[\/\\]evaluate\.cfm
+[\/\\]cfdocs[\/\\]snippets[\/\\]fileexists\.cfm
+[\/\\]cfdocs[\/\\]snippets[\/\\]gettempdirectory\.cfm
+cfg=\/\.\.\/
+[\/\\]cfgwiz\.exe
+[\/\\]cfide[\/\\]administrator[\/\\]index\.cfm
+[\/\\]cfide[\/\\]administrator[\/\\]startstop\.html
+[\/\\]cgforum\.cgi
+[\/\\][\/\\][\/\\]cgi-bin
+[\/\\]cgi-bin[\/\\]
+[\/\\]cgi-bin[\/\\][\/\\][\/\\]
+[\/\\]cgi-bin[\/\\]admin[\/\\]admin
+[\/\\]cgi-bin[\/\\]console\.exe
+[\/\\]cgi-bin[\/\\]cs\.exe
+[\/\\]cgi-bin[\/\\]jj
+[\/\\]cgi-bin[\/\\]ls
+[\/\\]cgicso
+[\/\\]cgi-dos[\/\\]
+[\/\\]cgiforum\.pl
+[\/\\]cgiforum\.pl\?thesection=\.\.[\/\\]\.\.
+[\/\\]cgimail
+[\/\\]cgiproc
+[\/\\]cgiproc\?\$
+[\/\\]cgiproc\?Nocfile=
+[\/\\]cgitest\.exe
+[\/\\]cgitest\.exe\x0d\x0auser
+[\/\\]cgiwrap
+charset = \x22\x22
+[\/\\]chipcfg\.cgi
+[\/\\]chip\.ini
+&CiRestriction=none&CiHiliteType=Full
+\?CiWebHitsFile=[\/\\]
+[\/\\]classifieds\.cgi
+[\/\\]class[\/\\]mysql\.class
+cmd_rootsh
+[\/\\]\.cobalt[\/\\]siteUserMod[\/\\]siteUserMod\.cgi
+[\/\\]code\.php3
+[\/\\]collect4\.nsf
+command=register
+[\/\\]commerce\.cgi
+[\/\\]config[\/\\]check\.txt
+[\/\\]config[\/\\]html[\/\\]cnf_gi\.htm
+[\/\\]config[\/\\]import\.txt
+config\.ini
+content=\.\.\/
+Content-Disposition:
+[\/\\]contextAdmin[\/\\]contextAdmin\.html
+\/controller\.php\?action=
+[\/\\]count\.cgi
+Croot\x09\x09\x09\x09\x09\x09\x09Mprog,P=\/bin
+Croot\x0d\x0aMprog, P=\/bin\/
+[\/\\]csPassword\.cgi
+[\/\\]csSearch\.cgi
+[\/\\]ctss\.idc
+[\/\\]CVS[\/\\]Entries
+[\/\\]cvsweb\.cgi
+[\/\\]cvsweb[\/\\]version
+cybercop
+[\/\\]cybercop
+[\/\\]day5datacopier\.cgi
+[\/\\]day5datanotifier\.cgi
+[\/\\]db2www
+[\/\\]DB4Web[\/\\]
+[\/\\]dbman[\/\\]db\.cgi
+[\/\\]db_mysql\.inc
+[\/\\]dcboard\.cgi
+[\/\\]dcforum\.cgi
+[\/\\]dcshop
+[dD][bB][aA]_[tT][aA][bB][lL][eE][sS]
+[dD][bB][aA]_[tT][aA][bB][lL][eE][sS][pP][aA][cC][eE]
+&[dD][eE][lL]\+\/[sS]\+[cC]\x3a\\\*\.\*
+[dD][eE][sS][cC][rR][iI][bB][eE] 
+[dD][eE][sS][cC][rR][iI][pP][tT][iI][oO][nN]=\(
+[dD][iI][gG][iI][tT][sS]=
+[dD][iI][sS][tT][lL][oO][cC]=;
+[dD][oO][cC][uU][mM][eE][nN][tT]\.[dD][oO][mM][aA][iI][nN]\(
+[dD][oO][cC][uU][mM][eE][nN][tT][nN][aA][mM][eE]=
+[dD][rR][oO][pP] [tT][aA][bB][lL][eE]
+\?DeleteDocument
+[\/\\]dfire\.cgi
+[\/\\]diffs[\/\\]
+[\/\\]directory\.php
+[\/\\]directorypro\.cgi
+[\/\\]dm[\/\\]demarc
+[\/\\]dnstools\.php
+[\/\\]doc[\/\\]packages
+doctodep\.btr
+[\/\\]document\.d2w
+Documents and Settings\\All Users\\Start Menu\\Programs\\Startup\x00
+[\/\\]doeditvotes\.cgi
+domain=
+[\/\\]domcfg\.nsf
+[\/\\]domlog\.nsf
+[\/\\]dostuff\.php
+[\/\\]dostuff\.php\?action=modify_user
+[\/\\]dsgw[\/\\]bin[\/\\]search\?context=
+[\/\\]\.DS_Store
+[\/\\]dumpenv\.pl
+[\/\\]dvwssr\.dll
+\\D\$\x00\x41\x3a\x00
+[\/\\]echo\.bat
+echo \x22 \+ \+ \x22
+echo \x22\+ \+\x22
+[\/\\]ecscripts[\/\\]ecware\.exe
+\?EditDocument
+[\/\\]edit_image\.php
+\/[eE][tT][cC]\/[iI][nN][eE][tT][dD]\.[cC][oO][nN][fF]
+\/[eE][tT][cC]\/[mM][oO][tT][dD]
+\/[eE][tT][cC]\/[pP][aA][sS][sS][wW][dD]
+\/[eE][tT][cC]\/[sS][hH][aA][dD][oO][wW]
+[eE][xX][eE][cC][uU][tT][eE]_[sS][yY][sS][tT][eE][mM]
+[eE][xX][pP][nN] \*\x40
+[eE][xX][pP][nN] [dD][eE][cC][oO][dD][eE]
+[eE][xX][pP][nN] [rR][oO][oO][tT]
+E Fatal error, aborting\.
+ehlo cybercop\x0aquit\x0a
+[\/\\]empower
+[\/\\]empower\?DB=
+[\/\\]emumail\.cgi
+[\/\\]en[\/\\]admin[\/\\]aggregate\.asp
+[\/\\]enivron\.pl
+[\/\\]enter_bug\.cgi
+&entity
+[\/\\]environ\.cgi
+[\/\\]envout\.bat
+[\/\\]envout\.bat\|
+eply-to\x3a a~\.`\/bin\/
+E protocol error: invalid directory syntax in
+E protocol error: Root request missing
+[\/\\]error[\/\\]500error\.jsp
+[\/\\]eshop\.pl
+[\/\\]eshop\.pl\?seite=;
+[\/\\]events4\.nsf
+[\/\\]ews[\/\\]architext_query\.pl
+[\/\\]exair[\/\\]search[\/\\]
+[\/\\]examples[\/\\]servlet[\/\\]SnoopServlet
+[\/\\]examples[\/\\]servlet[\/\\]TroubleShooter
+[\/\\]exchange[\/\\]LogonFrm\.asp\?
+[\/\\]exchange[\/\\]root\.asp
+[\/\\]exchange[\/\\]root\.asp\?acs=anon
+[\/\\]exec[\/\\]show[\/\\]config[\/\\]cr
+\/exe\.php
+expn cybercop
+[\/\\]faqmanager\.cgi
+[\/\\]faqmanager\.cgi\?toc=
+[\/\\]faxsurvey
+[\/\\]faxsurvey\?[\/\\]
+[\/\\]faxsurvey\?cat%20
+[\/\\]\.FBCIndex
+[\/\\]fcgi-bin[\/\\]echo\.exe
+[fF][iI][lL][eE]=\.\.\/
+[fF][iI][lL][eE]=\.\.\/\.\.\/
+[fF][iI][lL][eE]:\/\/
+[fF][iI][lL][eE]=[hH][tT][tT][pP]:\/\/
+[fF][iI][lL][eE]_[nN][aA][mM][eE]=
+[fF][iI][lL][eE][nN][aA][mM][eE]=
+[fF][iI][lL][eE][nN][aA][mM][eE]=\*\.[eE][xX][eE]
+[fF][iI][lL][eE][nN][aA][mM][eE]=\*\.[iI][dD][cC]
+[fF][rR][oO][mM]\x3A\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90
+[fF][tT][pP]\.[eE][xX][eE]
+file=\.\.\/
+[\/\\]filemail
+[\/\\]filemail\.pl
+filename=\*\.asp
+[\/\\]files\.pl
+[\/\\]finger
+[\/\\]flexform
+[\/\\]FormHandler\.cgi
+[\/\\]Form_JScript\.asp
+[\/\\]formmail
+[\/\\]Form_VBScript\.asp
+forum=\.\.\/\.\.
+forum[\/\\]index\.php
+ForumLang=\.\.\/
+\.forward
+[\/\\]fp30reg\.dll
+[\/\\]fp4areg\.dll
+[\/\\]fpcount\.exe
+[\/\\]fpremadm\.exe
+[\/\\]fpsrvadm\.exe
+free\(\): warning: chunk is already free
+-froot\x00
+[\/\\]ftp\.pl
+[\/\\]ftp\.pl\?dir=\.\.[\/\\]\.\.
+[\/\\]FtpSaveCSP\.dll
+[\/\\]FtpSaveCVP\.dll
+[\/\\]FtpSave\.dll
+\/gate\.php
+[\/\\]gbook\.cgi
+[\/\\]generate\.cgi
+gesundheit!
+[\/\\]get32\.exe
+\/getcfg\.php
+GET \/ HTTP\/1\.1\x0d\x0a\x0d\x0a
+get\.php\?type=slg&id=
+GETPROPERTIES
+[gG][cC][cC]%20-[oO]
+[gG][eE][tT] \/ [hH][tT][tT][pP]\/1\.1
+\/[gG][wW][wW][eE][bB]\.[eE][xX][eE]
+[\/\\]glimpse
+[\/\\]global\.asa
+[\/\\]global\.inc
+[\/\\]globals\.jsa
+[\/\\]globals\.pl
+[\/\\]gm-2-b2\.php
+\*GOBBLE\*
+GOBBLES
+[\/\\]graphics[\/\\]sml3com
+gstsearch
+[\/\\]guestbook\.cgi
+[\/\\]guestbook\.pl
+[\/\\]GWWEB\.EXE\?HELP=
+[\/\\]handler
+HEAD\/\.\/
+\*HELLO\*
+[\/\\]hello\.bat
+[\/\\]helpout\.exe
+\.[hH][tT][aA][cC][cC][eE][sS][sS]
+\.[hH][tT][pP][aA][sS][sS][wW][dD]
+ \/[hH][tT][tT][pP]\/1\.
+[\/\\]\.history
+[\/\\]home[\/\\]ftp
+[\/\\]home[\/\\]www
+[\/\\]hsx\.cgi
+[\/\\]htgrep
+\.htgroup
+[\/\\]htimage\.exe
+\.html[\/\\]\.\.\.\.\.\.
+[\/\\]htmlscript
+[\/\\]htmlscript\?\.\.[\/\\]\.\.
+[\/\\]htsearch
+[\/\\]htsearch\?-c
+[\/\\]htsearch\?exclude=`
+http:\/\/
+HTTP\/1\.1 403
+\.htw\?CiWebHitsFile
+\.idc\x3a\x3a\$data
+I HATE YOU
+[iI][cC][aA][tT][cC][oO][mM][mM][aA][nN][dD]=
+[iI][dD][eE][nN][tT][iI][fF][iI][eE][dD] [bB][yY] 
+[iI][mM][gG] [sS][rR][cC]=[jJ][aA][vV][aA][sS][cC][rR][iI][pP][tT]
+[iI][nN][dD][eE][xX] [oO][fF] \/[cC][gG][iI]-[bB][iI][nN]\/
+[iI][nN][vV][aA][lL][iI][dD] [uU][rR][lL]
+[\/\\]iisadmin
+[\/\\]iisadmpwd[\/\\]achg\.htr
+[\/\\]iisadmpwd[\/\\]aexp
+[\/\\]iisadmpwd[\/\\]aexp2\.htr
+[\/\\]iisadmpwd[\/\\]anot
+[\/\\]iisprotect[\/\\]admin[\/\\]
+[\/\\]iisprotect[\/\\]admin[\/\\]GlobalAdmin\.asp
+[\/\\]iisprotect[\/\\]admin[\/\\]SiteAdmin\.asp
+[\/\\]iissamples[\/\\]
+[\/\\]ikonboard\.cgi
+[\/\\]imagemap\.exe
+[\/\\]imagemap\.exe\?
+includedir=
+[\/\\]inc[\/\\]sendmail\.inc
+index\.php
+[\/\\]info2www
+[\/\\]infosrch\.cgi
+[\/\\]infosrch\.cgi\?
+[\/\\]input2\.bat
+[\/\\]input2\.bat\|
+[\/\\]input\.bat
+[\/\\]input\.bat\|
+insert witty message here
+[\/\\]intranet[\/\\]
+[\/\\]isapi[\/\\]tstisapi\.dll
+\.j%2573p
+[jJ][aA][vV][aA][sS][cC][rR][iI][pP][tT]:\/\/
+\.js%2570
+[\/\\]jsp[\/\\]snp[\/\\]
+l44adsl
+[\/\\]lastlines\.cgi
+ld_library_path
+[\/\\]left_main\.php
+[\/\\]level[\/\\]
+[\/\\]listrec\.pl
+[lL][eE][tT][tT][eE][rR]=\.\.\/\.\.
+[lL][iI][kK][eE] \"%\"
+[lL][sS]%20-[lL]
+[lL][sS][oO][fF]%20
+[\/\\]loadpage\.cgi
+logged,true
+[\/\\]logicworks\.ini
+Login failed for user \x27sa\x27
+[\/\\]login\.htm
+[\/\\]login\.htm\?password=
+login incorrect
+login: root
+[\/\\]log\.nsf
+[\/\\]LWGate
+[\/\\]lyris\.pl
+[\/\\]mab\.nsf
+[\/\\]MachineInfo
+[\/\\]mail\.box
+[\/\\]mailit\.pl
+[\/\\]maillist\.pl
+[\/\\]mailman[\/\\]
+[\/\\]mailnews\.cgi
+mailto:ops\x40digisle\.com
+[\/\\]mailw46\.nsf
+[\/\\]mall_log_files[\/\\]order\.log
+[\/\\]man\.sh
+[\/\\]_mem_bin[\/\\]
+[\/\\]ministats[\/\\]admin\.cgi
+MIT-MAGIC-COOKIE-1
+[\/\\]mkilog\.exe
+[\/\\]mkplog\.exe
+[\/\\]mlog\.phtml
+[mM][aA][iI][lL]%20
+[mM][aA][iI][lL][bB][oO][xX]=
+[mM][aA][iI][lL] [fF][rR][oO][mM]\x3a\x20\x22\x7c
+[mM][aA][iI][lL] [fF][rR][oO][mM]\x3a\x20\x7c\/[uU][sS][rR]\/[uU][cC][bB]\/[tT][aA][iI][lL]
+[mM][eE][nN][uU][eE]=\.\.\/\.\.\/
+[\/\\]mmstdod\.cgi
+Mode=debug
+[\/\\]mod_gzip_status
+[\/\\]modules\.php\?
+[\/\\]mrtg\.cgi
+[\/\\]msadc[\/\\]samples[\/\\]
+[\/\\]msadcs\.dll
+[\/\\]msdac[\/\\]
+M-SEARCH 
+msg_out=
+[\/\\]MsmMask\.exe
+myaccount[\/\\]login\.asp
+[\/\\]mylog\.phtml
+[\/\\]names\.nsf
+name=Wiki
+name=\"\xCC\xCC\xCC\xCC\xCC
+[\/\\]ncommerce3[\/\\]ExecMacro[\/\\]orderdspc\.d2w
+[\/\\]nessus_is_probing_you_
+[\/\\]newdesk
+[\/\\]newsdesk\.cgi
+newserver
+[\/\\]newuser
+[\/\\]newuser\?Image=\.\.[\/\\]\.\.
+new XMLHttpRequest\(
+next=\.\.\/
+niggahbitch
+[nN][aA][mM][eE]=\.\.\/
+[nN][aA][sS][mM]%20
+[nN][cC]\.[eE][xX][eE]
+[nN][eE][tT]\.[eE][xX][eE]
+[nN][eE][tT] [lL][oO][cC][aA][lL][gG][rR][oO][uU][pP] [aA][dD][mM][iI][nN][iI][sS][tT][rR][aA][tT][oO][rR][sS] \/[aA][dD][dD]
+[nN][eE][wW][pP][aA][gG][eE]=\.\.\/
+[nN][mM][aA][pP]%20
+[nN][oO][tT][iI][fF][yY] \* 
+[nN][oO][tT] [oO][nN] [sS][yY][sS][tT][eE][mM] [cC][oO][nN][sS][oO][lL][eE]
+[\/\\]~nobody
+: no such repository
+[\/\\]nph-maillist\.pl
+[\/\\]nph-publish
+[\/\\]nph-publish\.cgi
+[\/\\]nph-test-cgi
+[\/\\]\.nsconfig
+[\/\\]nsiislog\.dll
+NS-query-pat=
+[\/\\]nstelemetry\.adp
+[\/\\]ntsync4\.nsf
+[\/\\]NUL[\/\\]\.\.[\/\\]\.\.[\/\\]
+[\/\\]objects\.inc\.php4
+[\/\\]officescan[\/\\]cgi[\/\\]jdkRqNotify\.exe
+[\/\\]officescan[\/\\]cgi[\/\\]jdkRqNotify\.exe\?
+[\/\\]onrequestend\.cfm
+op=admin_enter
+[\/\\]oprocmgr-status
+Oracle Applications One-Hour Install
+[\/\\]orders[\/\\]checks\.txt
+[\/\\]orders[\/\\]import\.txt
+[\/\\]orders[\/\\]orders\.txt
+[\/\\]org\.apache\.
+OutOfBox
+[\/\\]OvCgi[\/\\]OpenView5\.exe\?Context=Snmp&Action=Snmp&Host=&Oid=
+[\/\\]overflow\.cgi
+[\/\\]ows-bin[\/\\]
+page=\.\.\/
+[\/\\]pagelog\.cgi
+\?PageServices
+[\/\\]pals-cgi
+[\/\\]parse_xml\.cgi
+PARTIAL 
+pass -cklaus
+PASS ddd\x40\x0a
+pass -iss\x40iss
+pass -saint
+pass -satan
+[\/\\]passwd\.php3
+password=12345
+password=admin
+[\/\\]password\.cgi\.tmp
+path=http:\/\/
+[\/\\]pbserver[\/\\]pbserver\.dll
+[\/\\]perl\.exe
+[\/\\]perl\.exe\?
+[\/\\]perlshop\.cgi
+[\/\\]pfdispaly\.cgi
+[\/\\]pfdispaly\.cgi\?'
+[\/\\]pfdisplay\.cgi
+[\/\\]philboard_admin\.asp
+[\/\\]philboard\.mdb
+[\/\\]php\.cgi
+[\/\\]php\.exe
+_PHPLIB\[libdir\]
+php\?userid=
+[\/\\]ping\?query=
+[\/\\]pixfir~1[\/\\]how_to_login\.html
+[\/\\]plusmail
+[\/\\]p-news\.php
+[\/\\]pollit[\/\\]Poll_It_SSI_v2\.0\.cgi
+[\/\\]post32\.exe
+[\/\\]post32\.exe\|
+[\/\\]post-query
+[pP]0=\.\.\/\.\.\/
+\/[pP][aA][rR][sS][eE]_[xX][mM][lL]\.[cC][gG][iI]
+[pP][aA][sS][sS] [wW][hH]00[tT]
+[\/\\]ppdscgi\.exe
+[pP][eE][rR][lL]%20
+[pP][hH][pP]_[aA][uU][tT][hH]_[uU][sS][eE][rR]=[bB][oO][oO][gG][iI][eE][mM][aA][nN]
+[pP][yY][tT][hH][oO][nN]%20
+[\/\\]printenv
+\.printer
+private
+[\/\\]_private[\/\\]form_results\.htm
+[\/\\]_private[\/\\]form_results\.txt
+[\/\\]_private[\/\\]orders\.htm
+[\/\\]_private[\/\\]orders\.txt
+[\/\\]_private[\/\\]register\.htm
+[\/\\]_private[\/\\]register\.txt
+[\/\\]_private[\/\\]registrations\.htm
+[\/\\]_private[\/\\]registrations\.txt
+_private[\/\\]shopping_cart\.mdb
+[\/\\]privmsg\.php
+[\/\\]PRN[\/\\]\.\.[\/\\]\.\.[\/\\]
+[\/\\]process_bug\.cgi
+psfile=\x22\x60
+[\/\\]PSUser[\/\\]PSCOErrPage\.htm
+[\/\\]publisher[\/\\]search\.cgi
+query=%00
+[\/\\]query\?mss=\.\.
+[\/\\]quick-reply\.php
+[\/\\]quikstore\.cfg
+[\/\\]read_body\.php
+[\/\\]readme\.eml
+[\/\\]readmsg\.php
+[\/\\]read\.php3
+[\/\\]redirect
+[\/\\]register\.asp
+[\/\\]register\.cgi
+resolv_host_conf
+[\/\\]responder\.cgi
+REVLOG \/ 
+[\/\\]rguest\.exe
+\.rhosts
+[\/\\]ROADS[\/\\]cgi-bin[\/\\]search\.pl
+[\/\\]robots\.txt
+[\/\\]robot\.txt
+[\/\\]root\.exe
+root\x00root\x00
+[\/\\]rpc-nlog\.pl
+[\/\\]rpc-smb\.pl
+[\/\\]rpm_query
+[rR][cC][mM][dD]\.[eE][xX][eE]
+[rR][cC][pP][tT] [tT][oO]\x3a [dD][eE][cC][oO][dD][eE]
+[rR][eE][dD][iI][rR][eE][cC][tT]=[hH][tT][tT][pP]
+[rR][eE][fF]%3[cC][sS][cC][rR][iI][pP][tT]%20[lL][aA][nN][gG][uU][aA][gG][eE]%3[dD]%22[jJ][aA][vV][aA][sS][cC][rR][iI][pP][tT]
+[rR][eE][pP][lL][yY]_[mM][eE][sS][sS][aA][gG][eE]_[aA][tT][tT][aA][cC][hH]=
+[rR]\x00[aA]\x00[iI]\x00[sS]\x00[eE]\x00[rR]\x00[rR]\x00[oO]\x00[rR]\x00
+[\/\\]rwcgi60
+[\/\\]rwwwshell\.pl
+R\x00I\x00C\x00H\x00E\x00D\x002\x000
+s_alive\.php
+[\/\\]samples[\/\\]isapi[\/\\]srch\.htm
+[\/\\]samples[\/\\]search[\/\\]queryhit\.htm
+<script>
+[\/\\]scripts[\/\\]CGImail\.exe
+[\/\\]scripts[\/\\]convert\.bas
+[\/\\]scripts[\/\\]counter\.exe
+[\/\\]scripts[\/\\]cpshost\.dll
+[\/\\]scripts[\/\\]Fpadmcgi\.exe
+[\/\\]scripts[\/\\]iisadmin[\/\\]default\.htm
+[\/\\]scripts[\/\\]iisadmin[\/\\]ism\.dll\?http[\/\\]dir
+[\/\\]scripts[\/\\]perl
+[\/\\]scripts[\/\\]postinfo\.asp
+[\/\\]scripts[\/\\]proxy[\/\\]w3proxy\.dll
+[\/\\]scripts[\/\\]repost\.asp
+[\/\\]scripts[\/\\]samples[\/\\]
+[\/\\]scripts[\/\\]tools[\/\\]getdrvs\.exe
+[\/\\]scripts[\/\\]tools[\/\\]newdsn\.exe
+[\/\\]scripts[\/\\]uploadn\.asp
+[\/\\]scripts[\/\\]\x20
+[\/\\]sdbsearch\.cgi
+[\/\\]search
+[\/\\]search97\.vts
+[\/\\]search\.cgi
+[\/\\]search\.cgi\?keys
+[\/\\]search\.dll
+[\/\\]search\.vts
+[\/\\]sendform\.cgi
+[\/\\]sendmail\.cfm
+[\/\\]sendmessage\.cgi
+[\/\\]sendtemp\.pl
+[\/\\]sensepost\.exe
+[\/\\]server-info
+Server\[path\]=http
+[\/\\]server-status
+[\/\\]ServerVariables_Jscript\.asp
+[\/\\]service\.pwd
+[\/\\]servlet[\/\\]
+servlet[\/\\]\.\.\.\.\.\.\.
+[\/\\]servlet[\/\\]admin
+[\/\\]servlet[\/\\]com\.unify\.servletexec\.UploadServlet
+[\/\\]servlet[\/\\]con
+[\/\\]servlet[\/\\]ServletExec
+[\/\\]servlet[\/\\]sunexamples\.BBoardServlet
+setauth=
+[\/\\]setup\.nsf
+shell bound to port
+[\/\\]shop\.cgi
+[\/\\]shopper\.cgi
+[\/\\]shoutbox\.php
+[\/\\]showcode
+[\/\\]showcode\.asp
+[\/\\]\*\.shtml
+[\/\\]simplestguest\.cgi
+[\/\\]site[\/\\]eg[\/\\]source\.asp
+[\/\\]site[\/\\]iisamples
+[\/\\]SiteScope[\/\\]cgi[\/\\]go\.exe[\/\\]SiteScope
+[\/\\]Site Server[\/\\]Admin[\/\\]knowledge[\/\\]persmbr[\/\\]
+[\/\\]SiteServer[\/\\]Admin[\/\\]knowledge[\/\\]persmbr[\/\\]
+[\/\\]slxweb\.dll
+[\/\\]slxweb\.dll[\/\\]admin\?command=
+[\/\\]smartsearch\.cgi
+[\/\\]smssend\.php
+[\/\\]snork\.bat
+[\/\\]snorkerz\.cmd
+-soa %p
+[\/\\]sojourn\.cgi
+[\/\\]sojourn\.cgi\?cat=
+SolarWinds\.Net
+[\/\\]spin_client\.cgi
+spoofworks
+[\/\\]squirrelspell[\/\\]modules[\/\\]check_me\.mod\.php
+[\/\\]srchadm
+[\/\\]srsrv\.cgi
+<[sS][cC][rR][iI][pP][tT]>
+ssdp:discover
+[sS][eE][cC][uU][rR][eE]_[sS][iI][tT][eE], [oO][kK]
+[sS][eE][lL][eE][cC][tT] 
+[sS][iI][tT][eE] 
+[sS][qQ][sS][pP][eE][lL][lL]_[aA][pP][pP]\[
+[sS]\x00[pP]\x00_\x00[aA]\x00[dD]\x00[dD]\x00[uU]\x00[sS]\x00[eE]\x00[rR]\x00
+[sS]\x00[pP]\x00_\x00[dD]\x00[eE]\x00[lL]\x00[eE]\x00[tT]\x00[eE]\x00_\x00[aA]\x00[lL]\x00[eE]\x00
+[sS]\x00[pP]\x00_\x00[dD]\x00[eE]\x00[lL]\x00[eE]\x00[tT]\x00[eE]\x00_\x00[aA]\x00[lL]\x00[eE]\x00[rR]\x00[tT]\x00
+[sS]\x00[pP]\x00_\x00[pP]\x00[aA]\x00[sS]\x00[sS]\x00[wW]\x00[oO]\x00[rR]\x00[dD]\x00
+[sS]\x00[pP]\x00_\x00[sS]\x00[tT]\x00[aA]\x00[rR]\x00[tT]\x00_\x00[jJ]\x00[oO]\x00[bB]\x00
+[sS][yY][sS]\.[aA][lL][lL]_[uU][sS][eE][rR][sS]
+[\/\\]statrep\.nsf
+[\/\\]statusconfig\.pl
+[\/\\]store[\/\\]agora\.cgi
+[\/\\]store[\/\\]agora\.cgi\?cart_id=<SCRIPT>
+[\/\\]store\.cgi
+[\/\\]StoreCSVS[\/\\]InstantOrder\.asmx
+[\/\\]story\.pl
+stream\/
+[\/\\]StreamingStatistics
+\?STRENGUR
+[\/\\]supp_membre\.php
+[\/\\]support[\/\\]common\.php
+[\/\\]survey\.cgi
+[\/\\]SWEditServlet
+[\/\\]talkbalk\.cgi
+[\/\\]technote[\/\\]main\.cgi
+[\/\\]technote[\/\\]print\.cgi
+template=\.\.\/\.\.\/\.\.\/
+template=http
+[\/\\]test\.bat
+[\/\\]test\.bat\|
+[\/\\]testcgi
+[\/\\]test-cgi
+[\/\\]test-cgi[\/\\]\*\?\*
+[\/\\]test\.cgi
+[\/\\]test\.php
+[\/\\]textcounter\.pl
+thisissometempspaceforthesockinaddrinyeahyeahiknowthisislamebutanywaywhocareshorizongotitworkingsoalliscool
+[\/\\]trace\.axd
+[\/\\]tst\.bat
+tstisapi\.dll
+[\/\\]ttawebtop\.cgi
+[tT][cC][lL][sS][hH]8%20
+[tT][eE][lL][nN][eE][tT]\.[eE][xX][eE]
+[tT][eE][mM][pP][lL]=
+[tT][eE][mM][pP][lL][aA][tT][eE]=
+[tT][eE][mM][pP][lL][aA][tT][eE]=\.\.\/
+[tT][eE][rR][mM]=[xX][tT][eE][rR][mM]
+[tT][fF][tT][pP]%20
+[tT][fF][tT][pP]\.[eE][xX][eE]
+[tT][oO] [sS][uU] [rR][oO][oO][tT]
+[tT][rR][aA][cC][eE][rR][oO][uU][tT][eE]%20
+[tT][rR][aA][nN][sS][fF][eE][rR]-[eE][nN][cC][oO][dD][iI][nN][gG]:
+[tT][rR][aA][nN][sS][lL][aA][tT][eE]\x3a [fF]
+[tT][rR][uU][nN][cC][aA][tT][eE] [tT][aA][bB][lL][eE]
+[\/\\]turba[\/\\]status\.php
+[\/\\]txt2html\.cgi
+uid=0\(root\)
+[\/\\]ultraboard
+[\/\\]upload\.cgi
+[\/\\]uploader\.exe
+[\/\\]uploadimage\.php
+[\/\\]upload\.php
+[\/\\]upload\.pl
+User-Agent\x3a Java1\.2\.1\x0d\x0a
+User-Agent\x3a Webtrends Security Analyzer\x0d\x0a
+\?user_id=
+userid=[0-9]{8}_
+username too long
+[\/\\]users\.pwd
+[\/\\]users\.xml
+[\/\\]user_update_admin\.pl
+[\/\\]user_update_passwd\.pl
+USER w0rm\x0D\x0A
+[\/\\]ustorekeeper\.pl
+[uU][nN][aA][mM][eE]%20-[aA]
+\" --[uU][sS][eE]-[cC][oO][mM][pP][rR][eE][sS][sS]-[pP][rR][oO][gG][rR][aA][mM]\" 
+[uU][sS][eE][rR]_[dD][nN][sS][tT][oO][oO][lL][sS]_[aA][dD][mM][iI][nN][iI][sS][tT][rR][aA][tT][oO][rR]=[tT][rR][uU][eE]
+[uU][sS][eE][rR]_[lL][oO][gG][gG][eE][dD]_[iI][nN]=[tT][rR][uU][eE]
+[uU][sS][eE][rR][nN][aA][mM][eE]: 
+[uU][sS][eE][rR]_[tT][aA][bB][lL][eE][sS][pP][aA][cC][eE]
+\/[uU][sS][rR]\/[bB][iI][nN]\/[cC][cC]
+\/[uU][sS][rR]\/[bB][iI][nN]\/[cC][hH][sS][hH]
+\/[uU][sS][rR]\/[bB][iI][nN]\/[cC][pP][pP]
+\/[uU][sS][rR]\/[bB][iI][nN]\/[gG]\+\+
+\/[uU][sS][rR]\/[bB][iI][nN]\/[gG][cC][cC]
+\/[uU][sS][rR]\/[bB][iI][nN]\/[iI][dD]
+\/[uU][sS][rR]\/[bB][iI][nN]\/[pP][eE][rR][lL]
+\/[uU][sS][rR]\/[xX]11[rR]6\/[bB][iI][nN]\/[xX][tT][eE][rR][mM]
+&version_id=
+[\/\\]viewcode
+[\/\\]viewcode\.asp
+[\/\\]view_source
+[\/\\]view-source
+[\/\\]violation\.php3
+[\/\\]viralator\.cgi
+[\/\\]visadmin\.exe
+Volume Serial Number
+[\/\\]vpasswd\.cgi
+[\/\\]_vti_bin[\/\\]
+[\/\\]_vti_bin[\/\\]shtml\.dll
+[\/\\]_vti_bin[\/\\]shtml\.exe
+[\/\\]_vti_bin[\/\\]_vti_aut[\/\\]author\.exe
+_vti_inf\.html
+[\/\\]_vti_pvt[\/\\]access\.cnf
+[\/\\]_vti_pvt[\/\\]service\.cnf
+[\/\\]_vti_pvt[\/\\]services\.cnf
+[\/\\]_vti_pvt[\/\\]service\.stp
+[\/\\]_vti_pvt[\/\\]svcacl\.cnf
+[\/\\]_vti_pvt[\/\\]writeto\.cnf
+[\/\\]_vti_rpc
+[vV][eE][rR][sS][iI][oO][nN]_[mM][aA][pP][pP][eE][rR]
+\/[vV][iI][eE][wW][sS][oO][uU][rR][cC][eE]\/[tT][eE][mM][pP][lL][aA][tT][eE]\.[hH][tT][mM][lL]\?
+[vV][rR][fF][yY] [dD][eE][cC][oO][dD][eE]
+[vV][rR][fF][yY] [rR][oO][oO][tT]
+[\/\\]w3-msql[\/\\]
+[\/\\]w3tvars\.pm
+[\/\\]wais\.pl
+[\/\\]way-board
+[\/\\]way-board\.cgi
+[\/\\]way-board[\/\\]way-board\.cgi
+[\/\\]webadmin\.nsf
+[\/\\]webalizer[\/\\]
+[\/\\]webcart[\/\\]
+[\/\\]webcart-lite[\/\\]
+[\/\\]webdist\.cgi
+[\/\\]webdriver
+[\/\\]webfind\.exe
+[\/\\]webgais
+[\/\\]WEB-INF
+[\/\\]web-map\.cgi
+[\/\\]webplus\?about
+[\/\\]webplus\.cgi\?Script=[\/\\]webplus[\/\\]webping[\/\\]webping\.wml
+[\/\\]webplus\.exe\?about
+[\/\\]webplus\.exe\?script=test\.wml
+[\/\\]webplus\?script
+[\/\\]websendmail
+[\/\\]webspirs\.cgi
+[\/\\]web_store\.cgi
+[\/\\]wguest\.exe
+[\/\\]whois_raw\.cgi
+[\/\\]whois_raw\.cgi\?
+[\/\\]win-c-sample\.exe
+[\/\\]windmail\.exe
+\?wp-cs-dump
+\?wp-html-rend
+\?wp-start-ver
+\?wp-stop-ver
+\?wp-uncheckout
+\?wp-usr-prop
+\?wp-ver-diff
+\?wp-verify-link
+\?wp-ver-info
+[\/\\]ws_ftp\.ini
+[\/\\]wsisa\.dll[\/\\]WService=
+[wW][gG][eE][tT]%20
+[wW][hH][oO][iI][sS]:\/\/
+[wW][hH][oO][iI][sS]\x3a\/\/
+[wW][iI][nN][dD][oO][wW]\.[oO][pP][eE][nN]\(\"[rR][eE][aA][dD][mM][eE]\.[eE][mM][lL]\"
+[wW][sS][hH]\.[eE][xX][eE]
+[wW][sS][mM][aA][dD][mM][iI][nN]
+\.wwwacl
+\.www_acl
+[\/\\]wwwadmin\.pl
+[\/\\]wwwboard[\/\\]passwd\.txt
+[\/\\]wwwboard\.pl
+[\/\\]www-sql
+[\/\\]wwwwais
+\\\x00S\x00t\x00a\x00r\x00t\x00 \x00M\x00e\x00n\x00u\x00\\\x00P\x00r\x00o\x00g\x00r\x00a\x00m\x00s\x00\\\x00S\x00t\x00a\x00r\x00t\x00u\x00p
+\x00\.\x00E\x00M\x00L
+\x00\.\x00N\x00W\x00S
+\\\.\.\.\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x00\x00\x45\x45\x45\x45\x45\x45\x45\x45\x45\x45\x45\x45
+\x00\x00\x00\x00\x57\x00\x69\x00\x6E\x00\x64\x00\x6F\x00\x77\x00\x73\x00\x20\x00\x4E\x00\x54\x00\x20\x00\x31\x00\x33\x00\x38\x00\x31
+\x00\x00\x03\xe7\x00\x00\x00\x00\x00\x00\x00\x65\x00\x00\x00\x00\x00\x00\x00\x00\x0d\x05\x00\x00\x00\x00\x00\x00\x00
+\x00\x00\x45\x00\x00\x45\x00\x00\x40\x00
+\x00\x01\x00\x02\x00\x01\x00
+\x00\x01\x00\x03\x00\x01\x00
+\x00\x01\x57\x00\x00\x00\x18
+\x00\x01\x87\x86\x00\x00\x00\x01\x00\x00\x00\x05
+\x00\xC0\x05\x08\x00\xC0\x05\x08\x00\xC0\x05\x08\x00\xC0\x05\x08
+\x01rlogind\x3a Permission denied\.
+\x01\x03\x00\x00\x00\x00\x00\x01\x00\x02\x02\xe8
+\x01\x31\xDB\xCD\x80\xE8\x5B\xFF\xFF\xFF
+\x03\x00\x00\x0b\x06\xE0\x00\x00\x00\x00\x00
+\x0aCroot\x0aMprog
+\x0aCroot\x0d\x0aMprog
+\x0aC\x3adaemon\x0aR
+\x0Ahelp\x0Aquite\x0A
+\x0A\x00\x00\x01\x85\x04\x00\x00\x80\x72\x6F\x6F\x74\x00
+\x0D\x0A\[Yes\]\x0D\x0A\xFF\xFE\x08\xFF\xFD\x26
+\x0f\x00\x00\x00\x03show databases
+^\x13BitTorrent protocol
+\x2aGOBBLE\x2a
+\x2b\x06\x10\x40\x14\xd1\x02\x19
+\\\.\.\x2f\x00\x00\x00
+\x2f\x2f\x2f\x2f\x2f\x2f\x2f\x2f
+\x2F\x73\x68\x68\x2F\x2F\x62\x69
+\x30\x26\x02\x01\x00\x04\x06\x70\x75\x62\x6C\x69\x63\xA0\x19\x02\x01\x00\x02\x01\x00\x02\x01\x00\x30\x0E\x30\x0C\x06\x08\x2B\x06\x01\x02\x01\x01\x05\x00\x05\x00
+\x30\x38\x02\x01\x00\x04\x06\x70\x75\x62\x6C\x69\x63\xA4\x2B\x06
+\x31\xc0\xb0\x02\xcd\x80\x85\xc0\x75\x4c\xeb\x4c\x5e\xb0
+\x31\xc0\xb0\x3f\x31\xdb\xb3\xff\x31\xc9\xcd\x80\x31\xc0
+\x33\xC9\xB1\x10\x3F\xE9\x06\x51\x3C\xFA\x47\x33\xC0\x50\xF7\xD0\x50
+\x39\x20\xd0\x00\x92\x01\xc2\x00\x52\x00\x55\x00\x39\x20\xec\x00
+\x3a no such user
+\x3a\x3a\x3a\x3a\x3a\x3a\x3a\x3a\x00\x3a\x3a\x3a\x3a\x3a\x3a\x3a\x3a
+\x40\x8A\xFF\xC8\x40\x82\xFF\xD8\x3B\x36\xFE\x03\x3B\x76\xFE\x02
+\x43\x07\x89\x5B\x08\x8D\x4B\x08\x89\x43\x0C\xB0\x0B\xCD\x80\x31\xC0\xFE\xC0\xCD\x80\xE8\x94\xFF\xFF\xFF\x2F\x62\x69\x6E\x2F\x73\x68\x0A
+\x48\x00\x25\x00\x78\x00\x77\x00\x90\x00\x90\x00\x90\x00\x90\x00\x90\x00\x33\x00\xc0\x00\x50\x00\x68\x00\x2e\x00
+\x56\x0e\x31\xc0\xb0\x3b\x8d\x7e\x12\x89\xf9\x89\xf9
+\x58\x58\x58\x58\x25\x2E\x31\x37\x32\x75\x25\x33\x30\x30\x24\x6E
+\x5cC\$\x00\x41\x3a\x00
+\x5c\x00[iI]\x00[pP]\x00[cC]\x00\$\x00
+\x5C\x00\x5C\x00\x2A\x00\x53\x00\x4D\x00\x42\x00\x53\x00\x45\x00\x52\x00\x56\x00\x45\x00\x52\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\xFF\xFF\xFF\xFF\x00\x00\x00\x00
+\x5e\xb0\x02\x89\x06\xfe\xc8\x89\x46\x04\xb0\x06\x89\x46
+\x68\x5d\x5e\xff\xd5\xff\xd4\xff\xf5\x8b\xf5\x90\x66\x31
+\x6c\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00
+\x7F\xFF\xFB\x78\x7F\xFF\xFB\x78\x7F\xFF\xFB\x78\x7F\xFF\xFB\x78
+\x80\x00\x07\x00\x00\x00\x00\x00\x01\x3F\x00\x01\x02
+\x80\x07\x00\x00\x07\x00\x00\x04\x00\x00\x00\x00\x00
+\x81\x80\x00\x01\x00\x01\x00\x00\x00\x00
+\x81\xF1\x03\x01\x04\x9B\x81\xF1
+\x81\xf1\x03\x01\x04\x9b\x81\xf1\x01
+\x81\xF1\x03\x01\x04\x9B\x81\xF1\x01
+\x85\x80\x00\x01\x00\x01\x00\x00\x00\x00
+\x89\xf7\x29\xc7\x89\xf3\x89\xf9\x89\xf2\xac\x3c\xfe
+\x90\x1a\xc0\x0f\x90\x02\x20\x08\x92\x02\x20\x0f\xd0\x23\xbf\xf8
+\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90\x90
+\xA0\x23\xA0\x10\xAE\x23\x80\x10\xEE\x23\xBF\xEC\x82\x05\xE0\xD6\x90\x25\xE0
+\xAB\xCD\x09\x80\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x01\x20\x20\x20\x20\x02\x61
+\xb4\x20\xb4\x21\x8b\xcc\x83\xe9\x04\x8b\x19\x33\xc9\x66\xb9\x10
+\xba\x49\xfe\xff\xff\xf7\xd2\xb9\xbf\xff\xff\xff\xf7\xd1
+\xc0\x0c\x00\x01\x00\x01\x00\x00\x00\x3c\x00\x04
+\xc0\x0c\x00\x0c\x00\x01\x00\x00\x00\x3c\x00\x0f
+\xC0\x50\x52\x89\xE1\x50\x51\x52\x50\xB8\x3B\x00\x00\x00\xCD\x80
+\xCD\x80\xE8\xD7\xFF\xFF\xFF\/bin\/sh
+\xd8\x40\xcd\x80\xe8\xd9\xff\xff\xff\/bin\/sh
+\xE8\xD9\xFF\xFF\xFF\/bin\/sh
+\xeb\x23\x5e\x33\xc0\x88\x46\xfa\x89\x46\xf5\x89\x36
+\xeb\x2c\x5b\x89\xd9\x80\xc1\x06\x39\xd9\x7c\x07\x80\x01
+\xeb\x2f\x5f\xeb\x4a\x5e\x89\xfb\x89\x3e\x89\xf2
+\xeb\x40\x5E\x31\xc0\x40\x89\x46\x04\x89\xc3\x40\x89\x06
+\xeb\x45\xeb\x20\x5b\xfc\x33\xc9\xb1\x82\x8b\xf3\x80\x2b
+\xeb\x4b\x5b\x53\x32\xe4\x83\xc3\x0b\x4b\x88\x23\xb8\x50\x77
+\xeb\x56\x5E\x56\x56\x56\x31\xd2\x88\x56\x0b\x88\x56\x1e
+\xeb\x5f\x9a\xff\xff\xff\xff\x07\xff\xc3\x5e\x31\xc0\x89\x46\x9d
+\xeb\x6e\x5e\xc6\x06\x9a\x31\xc9\x89\x4e\x01\xc6\x46\x05
+\xeb\x7f\x5d\x55\xfe\x4d\x98\xfe\x4d\x9b
+\xff\xf3\xff\xf3\xff\xf3\xff\xf3\xff\xf3
+\xFF\xFD\x18\xFF\xFD\x1F\xFF\xFD\x23\xFF\xFD\x27\xFF\xFD\x24
+\xff\xff\x4b\x41\x44\x4d\x30\x2e\x30\x41\x00\x00\xfb\x03
+\xff\xff\xff\x2f\x42\x49\x4e\x2f\x53\x48\x00
+\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff
+[\/\\]XSQLConfig\.xml
+[xX][mM][lL][nN][sS]:[aA]=\"[dD][aA][vV]\">
+[xX][pP]_[aA][vV][aA][iI][lL][aA][bB][lL][eE][mM][eE][dD][iI][aA]
+[xX][pP]_[cC][mM][dD][sS][hH][eE][lL][lL]
+[xX][pP]_[eE][nN][uU][mM][dD][sS][nN]
+[xX][pP]_[fF][iI][lL][eE][lL][iI][sS][tT]
+[xX][pP]_[rR][eE][gG][dD][eE][lL][eE][tT][eE][kK][eE][yY]
+[xX][pP]_[rR][eE][gG][rR][eE][aA][dD]
+[xX][pP]_[rR][eE][gG][wW][rR][iI][tT][eE]
+[xX]\x00[pP]\x00_\x00[cC]\x00[mM]\x00[dD]\x00[sS]\x00[hH]\x00[eE]\x00[lL]\x00[lL]\x00
+[xX]\x00[pP]\x00_\x00[dD]\x00[iI]\x00[sS]\x00[pP]\x00[lL]\x00[aA]\x00[yY]\x00[pP]\x00[aA]\x00[rR]\x00[aA]\x00[mM]\x00[sS]\x00[tT]\x00[mM]\x00[tT]
+[xX]\x00[pP]\x00_\x00[eE]\x00[nN]\x00[uU]\x00[mM]\x00[rR]\x00[eE]\x00[sS]\x00[uU]\x00[lL]\x00[tT]\x00[sS]\x00[eE]\x00[tT]\x00
+[xX]\x00[pP]\x00_\x00[pP]\x00[eE]\x00[eE]\x00[kK]\x00[qQ]\x00[uU]\x00[eE]\x00[uU]\x00[eE]\x00
+[xX]\x00[pP]\x00_\x00[pP]\x00[rR]\x00[iI]\x00[nN]\x00[tT]\x00[sS]\x00[tT]\x00[aA]\x00[tT]\x00[eE]\x00[mM]\x00[eE]\x00[nN]\x00[tT]\x00[sS]\x00
+[xX]\x00[pP]\x00_\x00[pP]\x00[rR]\x00[oO]\x00[xX]\x00[iI]\x00[eE]\x00[dD]\x00[mM]\x00[eE]\x00[tT]\x00[aA]\x00[dD]\x00[aA]\x00[tT]\x00[aA]\x00
+[xX]\x00[pP]\x00_\x00[rR]\x00[eE]\x00[gG]\x00
+[xX]\x00[pP]\x00_\x00[sS]\x00[eE]\x00[tT]\x00[sS]\x00[qQ]\x00[lL]\x00[sS]\x00[eE]\x00[cC]\x00[uU]\x00[rR]\x00[iI]\x00[tT]\x00[yY]\x00
+[xX]\x00[pP]\x00_\x00[sS]\x00[hH]\x00[oO]\x00[wW]\x00[cC]\x00[oO]\x00[lL]\x00[vV]\x00
+[xX]\x00[pP]\x00_\x00[sS]\x00[pP]\x00[rR]\x00[iI]\x00[nN]\x00[tT]\x00[fF]\x00
+[xX]\x00[pP]\x00_\x00[uU]\x00[pP]\x00[dD]\x00[aA]\x00[tT]\x00[eE]\x00[cC]\x00[oO]\x00[lL]\x00[vV]\x00[bB]\x00[mM]\x00
+[\/\\]YaBB\.pl
+yep yep
+YWRtaW46YWRtaW4
+[\/\\]zml\.cgi

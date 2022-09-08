@@ -1,0 +1,7 @@
+@mos\s{2}\dm\s\d
+@^SSH\x2D[12]\x2E\d+
+@^STO#R[^\r\n]+\x2E(com|dll|exe|js|vbs)\s+
+@^User\x2DAgent#\x3A[^\r\n]+Gizmo
+@^User\x2DAgent#\x3A[^\r\n]+Googl#e[^\r\n]+Desktop
+@\x2Fupload(Frame)?\x2Ejsf\x3Fform\x3Atitle\x3AtopButtons\x3AuploadButton\x3D(\s*OK\s*|Processing)
+@\x3Ca\s+href\s*\x3D\s*@.*shell\x3A

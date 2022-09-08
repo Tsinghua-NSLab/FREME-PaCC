@@ -1,0 +1,6 @@
+@DATE\x5FFORM#AT\x28\s*(\x22[^\x22]+\x25[^\x22]*\x22|\x27[^\x27]+\x25[^\x27]*\x27)
+@INSE#RT\s*[\s\w]*(mysql\x2E)?fu#nc[^\r\n]+valu#es\s*\x28[^\x29]+\x2C[\x22\x27][^\x22\x27]*\x2F
+@UPDA#TE\s*[\s\w]*(mysql\x2E)?fu#nc[^\r\n]+valu#es\s*\x28[^\x29]+\x2C[\x22\x27][^\x22\x27]*\x2F
+@IN\s*\x28\s*NULL\s*\x2C\s*[a-z\x24\x5F\x60\d]
+@\x03create\s+(aggregate\s+)*function
+@\x03create\s+(aggregate\s+)*function\s*#\s[^\s]{50}

@@ -1,0 +1,6 @@
+@charset\s*\x3D\s*utf\x2D8
+@data\s*\x3A\s*text\x2Fhtml\s*\x3B\s*base64\s*\x2C
+@prompt\x28fillm#em[^\x29]*\x29@.*\x3Cbo#dy\s+[^\x3E]*onLoad\s*\x3D\s*[\x22\x27]?setTimeout\x28
+@[^R]CHAR\x28@.*[^R]CHAR\x28@.*[^R]CHAR\x28@.*[^R]CHAR\x28@.*[^R]CHAR\x28
+@\x2Ereplace#\x28\x2F[^\x2F]+\x2F[A-Z]*\x2C(\x22\x22|\x27\x27)
+@\x2Ewrite\s*\x28\s*unescape\s*\x28

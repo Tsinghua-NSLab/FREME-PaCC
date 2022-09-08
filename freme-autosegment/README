@@ -1,0 +1,121 @@
++=============================================================================+
+|  RegEx Processor - by Network Security Laboratory                           |
++=============================================================================+
+
+The code includes:
+
+    * NFA and DFA generation algorithms for sets of regular expressions
+    * DFA minimization (J. Hopcroft, "An nlogn algorithm for minimizing states in a finite automaton," in Theory of Machines and Computation, J. Kohavi, Ed. New York: Academic, 1971, pp. 189-196)
+    * Export of NFA and DFA into DOT format for pictorial representation (http://www.graphviz.org/)
+    * NFA transformation algorithms
+          o epsilon transition removal
+          o state reduction 
+    * DFA and NFA traversal routines
+
+Build Information
+=================
+
+The code can be compiled and built using the provided makefile. 
+Targets:
+- all: builds the whole code (default)
+- clean: deletes all object files and executable
+- main: builds only the main DFA/NFA processing code
+
+The code has been compiled under cygwin using gcc 3.4.4, and under linux versions 2.6.9 and 2.6.18 using gcc 3.4.6 and 4.1.1 respectively.
+
+Usage
+=====
+
+Call each program without target in order to see its usage:
+
+- regex: DFA/NFA generator
+
+In particular:
+
+> ./regex
+
+Usage: regex [options]
+             [--parse|-p <regex_file> [--m|--i]]
+             [--trace|-t <trace_file>]
+
+Options:
+    --help,-h       print this message
+    --version,-r    print version number
+    --verbose,-v    basic verbosity level 
+    --debug,  -d    enhanced verbosity level 
+
+Other:
+    --parse,-p <regex_file>	process regex file
+    --m,--s,--i			m s i modifier
+    --trace,-t <trace_file>	trace file to be processed
+
+
+For convenience, some files containing sets of regular expressions have been provided in the /ruleset folder.
+NOTE: main.c has a place-holder in the main() function where the user can add custom code (@see dfa.h, nfa.h, hybrid_fa.h) 
+
+
+Observations and Suggestions
+============================
+
+(1) NFA reduction can be configured with the COMMON_TARGET_REDUCTION and HYBRID_FA_REDUCTION variables in stdinc.h
+
+(2) For large DFAs, DFA generation may require considerable amount of time.
+
+(3) Some regular expression sub-patterns may lead to state explosion during DFA generation. Depending on the memory resource constraints your system has, this may lead to *out-of-memory* situations when creating the DFA. 
+
+You may want to use the --debug option to monitor the size of the DFA you are building. In case of state blow-up, the code is configured to generate multiple DFAs. In particular, MAX_DFA_SIZE defined in stdinc.h defines the upper bound to the size of each created DFA (beyond this threshold, rule partitioning into multiple DFAs is performed).
+
+Code Organization 
+=================
+(Please, refers to the code comments for specific information)
+
+Main classes
+------------
+
++ nfa.h/nfa.c
+
+Implementation of a non-deterministic finite automaton (NFA).
+This class provides:
+ - methods to build a NFA by adding transitions, concatenating and or-ing NFAs, copying NFAs, etc.
+ - function to transform a NFA into the equivalent without epsilon transitions
+ - function to reduce a NFA by collapsing equivalent sub-NFAs
+ - function to transform a NFA into DFA (subset construction procedure)  
+ - code to export the NFA into format suitable for dot program (http://www.graphviz.org/)
+
++ dfa.h/dfa.c
+
+Implementation of a deterministic finite automaton (DFA).
+The class provides:
+- getter and setter methods to access important DFA information
+- O(nlogn) minimization algorithm
+- code to export the DFA into format suitable for dot program (http://www.graphviz.org/)
+
++ trace.h/c
+
+Code implementing the input text processing for a given automaton.
+
++ main.c
+
+Program entry point.
+Please modify the main() function to add custom code (e.g.: statistics, calls to compression routines, etc.)
+The options allow to create a NFA/DFA from a list of regular expressions. Additionally, the DFA can be exported in proprietary format for later re-use, and be imported. Moreover, export to DOT format (http://www.graphviz.org/) is possible.
+Finally, processing a trace file is an option.
+
+Utilility classes
+-----------------
+
++ stdinc.h/c
+
+Defines broad scope include files, constant definitions and variables.
+
++ parser.h/c
+
+Implements parser routines allowing compiling a set of regular expressions in a specified file into a NFA.
+
++ int_set.h/c, link_set.h/c
+
+Implement sets of integers.
+
++ sub_set.h/c
+
+Data structure needed during subset construction and NFA compression.

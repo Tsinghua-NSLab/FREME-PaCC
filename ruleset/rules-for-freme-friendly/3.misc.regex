@@ -1,0 +1,14 @@
+@^Argument\s+\x2F
+@^(CLIENT|MACHINE)\x5FINFO
+@^Directory
+@^Location#\x3A[^\n]{128}
+@^Max\x2Ddotd#ot[\s\r\n]*\d{3,}
+@^(NT|CallBack|SID|TimeOut)\s*\x3A\s*#\s[^\n]{512}
+@PW\x2D?\x2E?\d+\s*\x2C\s*
+@SELECT\s*(TO\x5F(DATE|CHAR)|(VARCHAR|TIMESTAMP)\x5FFORMAT)\s*#\x28\x27[^\x27]*\x27\s*\x2C\s*\x27\x27\x29
+@^(UN)?SUBSCRIBE\s
+@^UR#L\x3B\w+\x3Amailto\x3A[^\n]*\x25[^\n]*\x2E(cmd|bat)
+@^Username#\x3A[^\n]{100}
+@^\x201#01\s+\d+[^\n]*\n[^\n]*\x25
+@\x2D\x2Dbackup\x2Ddir\s+\x2E\x2E\x2F
+@\x3CHMACOutputLength\x3E\s*0\s*\x3C\x2FHMACOutputLength\x3E

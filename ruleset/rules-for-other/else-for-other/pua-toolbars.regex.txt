@@ -1,0 +1,12 @@
+cid\x3Dtb\x2E(addr|sb)
+st\x3D(kwd|dns)
+tid\x3D\x7B([A-z\d]+\x2D){4}[A-z\d]+\x7D
+update
+^User\x2DAgent\x3A[^\r\n]*RX\x20Bar\s+(ver\x3D)?
+\x2Fdesktop\x2F\d+\x2Ftoolbar\x2Fsupremetb\d+\x2Ecfg
+\x2Fezsb\d{4}\x2Fbar\x5Fpl\x2Fchk\x5Fbar\x2Efcgi
+\x2Fms162cfg\x2Ejsp\x3F([aceflnrsv]\x3D[^\x26\s]*\x26){8}
+\x2Fta\x2FNEWS\x2F[^\r\n]*\x2Frss
+\x2Ftoolbar\x2Fico\x2F[A-Za-z\x25\x5F\d]*\x2Eico
+\x2Ftoolbar\x2F(version\x2Etxt|notifytoolbar\x2Ehtml)
+\x2Fxml\x2Ftoolbar\x2F(sports|news|horoscope2|horoscope|weather2|weather)\x2Ephp
